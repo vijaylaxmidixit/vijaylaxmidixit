@@ -1,7 +1,5 @@
 <h1>VijayLaxmi Dixit</h1>
 
-### Jack of All Trades, Master of Some.
-
 Welcome to my Github profile! With 6+ years in the trenches, I design production grade data platforms that sit at the intersection of deep engineering and product growth - turning messy, high-volume streams into the reliable infrastructure required for experimentation and executive decision-making. 
 
 ---
